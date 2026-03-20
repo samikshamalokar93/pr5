@@ -1,0 +1,47 @@
+/* Body */
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Main Heading */
+h1 {
+    color: white;
+    background-color: green;
+    text-align: center;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+/* Sub Headings */
+h2 {
+    color: darkgreen;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+/* Paragraph */
+p {
+    font-size: 16px;
+}
+
+/* List */
+ul {
+    color: brown;
+    font-size: 16px;
+}
+
+/* Hover Effect */
+ul li:hover {
+    color: red;
+    cursor: pointer;
+}
+
+/* Section Box */
+section {
+    background-color: #fff8dc;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
